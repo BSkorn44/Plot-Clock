@@ -1,2 +1,2 @@
 # Plot-Clock
-detailed description on building a plot clock
+detailed description on building a plot clock (in Progress)
