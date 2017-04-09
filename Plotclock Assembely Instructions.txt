@@ -1,0 +1,7 @@
+Plot Clock
+
+Installation instructions
+
+Please print or cut out attached .stl files.
+
+Assemble Plotclock
