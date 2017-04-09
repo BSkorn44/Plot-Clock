@@ -1,2 +1,3 @@
 # Plot-Clock
-detailed description on building a plot clock (in Progress)
+Instructions for building and calibrating 3D printed plot clock
+
